@@ -3,7 +3,7 @@ package utils
 import (
 	"encoding/json"
 	"errors"
-	"springcloud/go-eureka-client/eureka"
+	"github.com/chenwj93/eureka"
 	"strconv"
 	"strings"
 	"sync"

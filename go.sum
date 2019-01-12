@@ -1,5 +1,7 @@
 github.com/astaxie/beego v1.10.1 h1:M2ciUnyiZycuTpGEA+idJF0gX24h58EbPvGqjnO/DCg=
 github.com/astaxie/beego v1.10.1/go.mod h1:0R4++1tUqERR0WYFWdfkcrsyoVBCG4DgpDGokT3yb+U=
+github.com/chenwj93/eureka v0.0.0-20190112075950-502f32b60c64 h1:xgWB2HSicWPt3ddgTLKvmmDNOtpTCHB5CxFKD+xFqE4=
+github.com/chenwj93/eureka v0.0.0-20190112075950-502f32b60c64/go.mod h1:QLN1VG2WqUs0XkW5bpxplLl0kZjQh21EDyXY4pB4jIk=
 github.com/go-redis/redis v6.14.1+incompatible h1:kSJohAREGMr344uMa8PzuIg5OU6ylCbyDkWkkNOfEik=
 github.com/go-redis/redis v6.14.1+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
 github.com/satori/go.uuid v1.2.0 h1:0uYX9dsZ2yD7q2RtLRtPSdGDWzjeM3TbMJP9utgA0ww=
